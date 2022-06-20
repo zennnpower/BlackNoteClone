@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_category"
+        android:title="Categories"
+        android:icon="@drawable/ic_round_menu_24"
+        />
+
+    <item
+        android:id="@+id/nav_search"
+        android:title="Search"
+        android:icon="@drawable/ic_round_search_24"
+        />
+
+    <item
+        android:id="@+id/nav_add"
+        android:title="Add"
+        android:icon="@drawable/ic_round_add_circle_24"
+        />
+
+    <item
+        android:id="@+id/nav_favourites"
+        android:title="Favourites           "
+        android:icon="@drawable/ic_round_star_outline_24"
+        />
+
+    <item
+        android:id="@+id/nav_check"
+        android:title="Daily Check"
+        android:icon="@drawable/ic_round_check_circle_outline_24"
+        />
+</menu>
